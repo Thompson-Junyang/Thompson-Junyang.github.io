@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: M.Sc. in Electrical and Computer Engineering
+role: M.S. in Electrical and Computer Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -47,9 +47,8 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  # - Artificial Intelligence
-  # - Computational Linguistics
-  # - Information Retrieval
+  - Integrated Circuit
+  
 
 education:
   # - area: PhD Artificial Intelligence
@@ -61,13 +60,13 @@ education:
   #   button:
   #     text: 'Read Thesis'
   #     url: 'https://example.com'
-  - area: M.Sc. in Electrical and Computer Engineering
+  - area: M.S. in Electrical and Computer Engineering
     institution: Georgia Institute of Technology
     date_start: 2024-08-19
     date_end: 
     summary: |
       
-  - area: BSc in Electrical Engineering
+  - area: B.S. in Electrical Engineering
     institution: New York University
     date_start: 2024-05-25
     date_end: 2020-09-01
