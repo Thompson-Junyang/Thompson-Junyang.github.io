@@ -21,7 +21,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # 生成 .nojekyll（若你仓库里已提交，可删除这步）
       - name: Create .nojekyll
         run: echo "" > .nojekyll
 
